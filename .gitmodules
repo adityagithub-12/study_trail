@@ -1,3 +1,6 @@
 [submodule "study_trail"]
 	path = study_trail
 	url = https://github.com/adityagithub-12/study_trail.git
+[submodule "child-repo"]
+	path = child-repo
+	url = https://github.com/adityagithub-12/child-repo.git
